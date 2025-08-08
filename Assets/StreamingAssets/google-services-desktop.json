@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48008894002",
+    "project_id": "snake-demo-ca162",
+    "storage_bucket": "snake-demo-ca162.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48008894002:android:de34124ebd083e5a04ce2b",
+        "android_client_info": {
+          "package_name": "com.KevinGiraultCircuitStream.SnakeGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbvVIf3elCHW03hmRi8KGwhI6YxCkPFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
